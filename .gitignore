@@ -1,0 +1,35 @@
+# Keil/uVision build outputs
+Objects/
+Listings/
+
+# Keil/uVision per-user workspace/debug settings
+*.uvgui.*
+*.uvguix.*
+*.uvopt
+*.uvoptx
+
+# Local editor/runtime files
+.vscode/
+
+# Generated firmware/binary artifacts
+*.hex
+*.bin
+*.elf
+*.axf
+*.map
+*.lst
+*.obj
+*.o
+*.crf
+*.d
+*.lnp
+*.htm
+
+# Temporary files
+*.bak
+*.tmp
+*.log
+*.lock
+
+# Local cleanup scripts
+删除临时文件.bat
